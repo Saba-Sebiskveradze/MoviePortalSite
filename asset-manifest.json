@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MoviePortalSite/static/css/main.bc3e67da.css",
+    "main.js": "/MoviePortalSite/static/js/main.36c928d7.js",
+    "static/media/backgroundImage.jpg": "/MoviePortalSite/static/media/backgroundImage.adb52c935d4431a3bedb.jpg",
+    "static/media/logo.png": "/MoviePortalSite/static/media/logo.d068134ec1e9cad744fb.png",
+    "index.html": "/MoviePortalSite/index.html",
+    "main.bc3e67da.css.map": "/MoviePortalSite/static/css/main.bc3e67da.css.map",
+    "main.36c928d7.js.map": "/MoviePortalSite/static/js/main.36c928d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc3e67da.css",
+    "static/js/main.36c928d7.js"
+  ]
+}
